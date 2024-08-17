@@ -28,6 +28,7 @@
     <h1>Welcome to My Simple Website</h1>
     <p>This is a basic example of a website with plain text.</p>
     <p>Here you can find some information about me:</p>
+    <p> i was here</p>
     <ul>
         <li>Name: John Doe</li>
         <li>Occupation: Web Developer</li>
