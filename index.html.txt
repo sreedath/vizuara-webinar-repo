@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sanketh's Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .highlight {
+            color: #007BFF;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sanketh's Profile</h1>
+        <p><span class="highlight">Sanketh</span> is a student from <strong>IIT Kharagpur</strong>, pursuing a degree in <strong>Mechanical Engineering</strong>. With a strong interest in technology, he is a passionate enthusiast of <strong>Machine Learning (ML)</strong> and <strong>Deep Learning (DL)</strong>.</p>
+        
+        <h2>Projects and Achievements</h2>
+        <h3>1. Self-Driving Car Project</h3>
+        <p>Sanketh has worked on a <strong>self-driving car project</strong>, where he applied his knowledge of ML and DL to enhance the autonomous vehicle's control systems. This project involved advanced techniques in computer vision and neural networks.</p>
+        
+        <h3>2. Equity Chat Bot</h3>
+        <p>He developed an <strong>Equity Chat Bot</strong> as part of an end-to-end Large Language Model (LLM) project. The bot is designed to assist equity analysts by streamlining news retrieval, reducing manual efforts, and providing relevant insights.</p>
+
+        <h2>Skills and Interests</h2>
+        <p>Sanketh is continuously exploring the fields of ML and DL, aiming to leverage these technologies to solve real-world problems. His projects reflect a strong foundation in coding, data analysis, and model development.</p>
+    </div>
+</body>
+</html>
+
