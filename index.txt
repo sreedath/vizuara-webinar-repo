@@ -33,9 +33,10 @@
         <li>Occupation: Web Developer</li>
         <li>Hobbies: Reading, Coding, Hiking</li>
     </ul> 
-    <p>Yamini was here</p>
-    <p>Thank you for visiting!</p>
+    <p> Yamini was here</p>
+    <p> Thank you for visiting!</p>
     <p> Raj was here </p>
+    <p> S was here </p>
 
     <p>
         Gaurav Acharya was Here from Nepal
